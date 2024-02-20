@@ -1,0 +1,25 @@
+.right-to-left-label {
+    direction: rtl;
+  }
+  .orange {
+    color: orange;
+  }
+  
+  .green {
+    color: green;
+  }
+  
+  .purple {
+    color: purple;
+  }
+  .log{
+    margin-top: 5vh; /* Ensure content starts below the logo by adding margin-top equal to logo height */
+   
+  }
+  .meet{
+    border-style:double;
+    border-color: blanchedalmond;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}

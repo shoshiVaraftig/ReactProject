@@ -1,0 +1,11 @@
+.link{
+background-color: bisque;
+}
+.links{
+
+    position: relative; /* Set position to relative */
+    z-index: 3; /* Set a higher z-index value for the buttons on the other page */
+  
+}
+
+  

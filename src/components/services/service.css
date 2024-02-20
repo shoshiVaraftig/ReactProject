@@ -1,0 +1,71 @@
+.img{
+    width: 60vh; 
+    height: auto; 
+    display: flex;
+justify-content: center;
+padding: 2vh;
+}
+.imgdiv{
+ display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.link {
+  
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 2px;
+    background-color:antiquewhite;
+    cursor: pointer;
+    color: black;
+    transition: color 0.3s; /* Add a transition effect for smoother color change */
+}
+.link {
+    width: auto;
+    color: black; /* Set initial text color */
+    text-decoration: none; /* Remove underline from links */
+    transition: color 0.3s; /* Add a transition effect for smoother color change */
+  }
+  
+  .link:hover {
+  background-color: burlywood;
+    color: black;
+  }
+.bold{
+    font-weight: bold;
+
+}
+.bolds{
+    border-style:double;
+    border-color: blanchedalmond;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+.typ{
+    display: flex;
+    width: 80vh;
+    align-items: center;
+    /* border: solid;
+    border-color: blanchedalmond;
+    border-left: none;
+    border-right: none; */
+    /* border-bottom: none; */
+    padding: 2vh;
+ 
+        border-style:double;
+        border-color: blanchedalmond;
+        border-left: none;
+        border-right: none;
+        border-top: none;
+    
+}
+.ser{
+
+    margin-top: 12vh; /* Ensure content starts below the logo by adding margin-top equal to logo height */
+    padding: 10vh;
+font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+}
