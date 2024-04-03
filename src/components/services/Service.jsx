@@ -25,7 +25,7 @@ const Service = (observer(() => {
   return (
     <>
     <div className="ser">
-    <div className="bolds">:מסלולים נבחרים</div> 
+    <div className="bolds bold" >:מסלולים נבחרים</div> 
       {services.map((item) => (
         <Grid item key={item.name}>
           <Grid container direction="column" alignItems="center" className="typ">

@@ -48,11 +48,7 @@ align-items: center;
     display: flex;
     width: 80vh;
     align-items: center;
-    /* border: solid;
-    border-color: blanchedalmond;
-    border-left: none;
-    border-right: none; */
-    /* border-bottom: none; */
+   
     padding: 2vh;
  
         border-style:double;
@@ -64,7 +60,7 @@ align-items: center;
 }
 .ser{
 
-    margin-top: 12vh; /* Ensure content starts below the logo by adding margin-top equal to logo height */
+    margin-top: 12vh;
     padding: 10vh;
 font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
 

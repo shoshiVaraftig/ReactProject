@@ -20,9 +20,9 @@
    
   }
   .log{
-    margin-top: 15vh; /* Ensure content starts below the logo by adding margin-top equal to logo height */
-    /* padding: 10vh; */
-    
+    margin-top: 5vh;
+    padding: 10vh;
+    margin-bottom: 5vh;
     color: black;
   }
   .business-item.empty {

@@ -12,14 +12,33 @@
   .purple {
     color: purple;
   }
-  .log{
-    margin-top: 5vh; /* Ensure content starts below the logo by adding margin-top equal to logo height */
-   
+  .lightgray{
+    color: rgb(195, 193, 193);
   }
-  .meet{
+  .log{
+    
+    margin-top: 3vh;
+    padding-bottom: 2vh;
+    padding: 10vh;
+  }
+  .meet2{
+    padding-top: 4vh;
+    padding-bottom: 0;
     border-style:double;
     border-color: blanchedalmond;
     border-left: none;
     border-right: none;
     border-top: none;
+    font-weight: bold;
+  }
+  .meet{
+  
+    padding-bottom: 3vh;
+    border-style:double;
+    border-color: blanchedalmond;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+   
+   
 }
